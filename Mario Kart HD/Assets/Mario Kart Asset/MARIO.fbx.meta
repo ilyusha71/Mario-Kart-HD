@@ -1,0 +1,1960 @@
+fileFormatVersion: 2
+guid: e4c98774c9275ce40956cad73e1f9202
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 5_-Material25.Material25_1_0_0
+  - first:
+      1: 100002
+    second: 5_-Material27.Material27_1_0_0
+  - first:
+      1: 100004
+    second: 5_-Material33(1).Material33(1)_1_0_0
+  - first:
+      1: 100006
+    second: 5_-Material33(2).Material33(2)_1_0_0
+  - first:
+      1: 100008
+    second: 5_-Material33(3).Material33(3)_1_0_0
+  - first:
+      1: 100010
+    second: 5_-Material33(4).Material33(4)_1_0_0
+  - first:
+      1: 100012
+    second: 5_-Material33(5).Material33(5)_1_0_0
+  - first:
+      1: 100014
+    second: 5_-Material33(6).Material33(6)_1_0_0
+  - first:
+      1: 100016
+    second: 5_-Material33(7).Material33(7)_1_0_0
+  - first:
+      1: 100018
+    second: 5_-Material33.Material33_1_0_0
+  - first:
+      1: 100020
+    second: 5_Material26_1_0_0
+  - first:
+      1: 100022
+    second: 5_Material28(1)_1_0_0
+  - first:
+      1: 100024
+    second: 5_Material28_1_0_0
+  - first:
+      1: 100026
+    second: 5_Material29_1_0_0
+  - first:
+      1: 100028
+    second: 5_Material30_1_0_0
+  - first:
+      1: 100030
+    second: 5_Material31_1_0_0
+  - first:
+      1: 100032
+    second: 5_Material32(1)_1_0_0
+  - first:
+      1: 100034
+    second: 5_Material32_1_0_0
+  - first:
+      1: 100036
+    second: arm left elbow
+  - first:
+      1: 100038
+    second: arm left shoulder 1
+  - first:
+      1: 100040
+    second: arm left wrist
+  - first:
+      1: 100042
+    second: arm left wrist_end
+  - first:
+      1: 100044
+    second: arm right elbow
+  - first:
+      1: 100046
+    second: arm right shoulder 1
+  - first:
+      1: 100048
+    second: arm right wrist
+  - first:
+      1: 100050
+    second: arm right wrist_end
+  - first:
+      1: 100052
+    second: Armature
+  - first:
+      1: 100054
+    second: head neck lower
+  - first:
+      1: 100056
+    second: head neck upper
+  - first:
+      1: 100058
+    second: head neck upper_end
+  - first:
+      1: 100060
+    second: leg left ankle
+  - first:
+      1: 100062
+    second: leg left ankle_end
+  - first:
+      1: 100064
+    second: leg left knee
+  - first:
+      1: 100066
+    second: leg left thigh
+  - first:
+      1: 100068
+    second: leg right ankle
+  - first:
+      1: 100070
+    second: leg right ankle_end
+  - first:
+      1: 100072
+    second: leg right knee
+  - first:
+      1: 100074
+    second: leg right thigh
+  - first:
+      1: 100076
+    second: //RootNode
+  - first:
+      1: 100078
+    second: root ground
+  - first:
+      1: 100080
+    second: root hips
+  - first:
+      1: 100082
+    second: spine middle
+  - first:
+      1: 100084
+    second: unused head hair back 1
+  - first:
+      1: 100086
+    second: unused head hair back 2
+  - first:
+      1: 100088
+    second: unused head hair back 3
+  - first:
+      1: 100090
+    second: unused head hair back 4
+  - first:
+      1: 100092
+    second: unused head hair back 4_end
+  - first:
+      1: 100094
+    second: unused head hair front
+  - first:
+      1: 100096
+    second: unused head hair front_end
+  - first:
+      1: 100098
+    second: unused head hair left 1
+  - first:
+      1: 100100
+    second: unused head hair left 2
+  - first:
+      1: 100102
+    second: unused head hair left 3
+  - first:
+      1: 100104
+    second: unused head hair left 3_end
+  - first:
+      1: 100106
+    second: unused head hair right 1
+  - first:
+      1: 100108
+    second: unused head hair right 2
+  - first:
+      1: 100110
+    second: unused head hair right 3
+  - first:
+      1: 100112
+    second: unused head hair right 3_end
+  - first:
+      1: 100114
+    second: unused trash 01
+  - first:
+      1: 100116
+    second: unused trash 02
+  - first:
+      1: 100118
+    second: unused trash 03
+  - first:
+      1: 100120
+    second: unused trash 03_end
+  - first:
+      1: 100122
+    second: unused trash 04
+  - first:
+      1: 100124
+    second: unused trash 04_end
+  - first:
+      1: 100126
+    second: unused trash 05
+  - first:
+      1: 100128
+    second: unused trash 05_end
+  - first:
+      1: 100130
+    second: unused trash 06
+  - first:
+      1: 100132
+    second: unused trash 06_end
+  - first:
+      1: 100134
+    second: unused trash 08
+  - first:
+      1: 100136
+    second: unused trash 11
+  - first:
+      1: 100138
+    second: unused trash 12
+  - first:
+      1: 100140
+    second: unused trash 12a
+  - first:
+      1: 100142
+    second: unused trash 14
+  - first:
+      1: 100144
+    second: unused trash 15
+  - first:
+      1: 100146
+    second: unused trash 16
+  - first:
+      1: 100148
+    second: unused trash 16_end
+  - first:
+      1: 100150
+    second: unused trash 17
+  - first:
+      1: 100152
+    second: unused trash 17_end
+  - first:
+      1: 100154
+    second: unused trash 18
+  - first:
+      1: 100156
+    second: unused trash 18_end
+  - first:
+      1: 100158
+    second: unused trash 19
+  - first:
+      1: 100160
+    second: unused trash 20
+  - first:
+      1: 100162
+    second: unused trash 21
+  - first:
+      1: 100164
+    second: unused trash 22
+  - first:
+      1: 100166
+    second: unused trash 23
+  - first:
+      1: 100168
+    second: unused trash 23_end
+  - first:
+      1: 100170
+    second: unused trash 24
+  - first:
+      1: 100172
+    second: unused trash 25
+  - first:
+      1: 100174
+    second: unused trash 25_end
+  - first:
+      1: 100176
+    second: unused trash 26
+  - first:
+      1: 100178
+    second: unused trash 26_end
+  - first:
+      1: 100180
+    second: unused trash 27
+  - first:
+      1: 100182
+    second: unused trash 28
+  - first:
+      1: 100184
+    second: unused trash 28_end
+  - first:
+      1: 100186
+    second: unused trash 29
+  - first:
+      1: 100188
+    second: unused trash 29_end
+  - first:
+      1: 100190
+    second: unused trash 30
+  - first:
+      1: 100192
+    second: unused trash 30_end
+  - first:
+      1: 100194
+    second: unused trash 31
+  - first:
+      1: 100196
+    second: unused trash 31_end
+  - first:
+      1: 100198
+    second: unused trash 32
+  - first:
+      1: 100200
+    second: unused trash 32_end
+  - first:
+      1: 100202
+    second: unused trash 33
+  - first:
+      1: 100204
+    second: unused trash 33_end
+  - first:
+      1: 100206
+    second: unused trash 34
+  - first:
+      1: 100208
+    second: unused trash 34_end
+  - first:
+      1: 100210
+    second: unused trash 35
+  - first:
+      1: 100212
+    second: unused trash 35_end
+  - first:
+      1: 100214
+    second: unused trash 36
+  - first:
+      1: 100216
+    second: unused trash 37
+  - first:
+      1: 100218
+    second: unused trash 37_end
+  - first:
+      1: 100220
+    second: unused trash 38
+  - first:
+      1: 100222
+    second: unused trash 38_end
+  - first:
+      1: 100224
+    second: unused trash 39
+  - first:
+      1: 100226
+    second: unused trash 39_end
+  - first:
+      1: 100228
+    second: unused trash 40
+  - first:
+      1: 100230
+    second: unused trash 41
+  - first:
+      1: 100232
+    second: unused trash 41_end
+  - first:
+      1: 100234
+    second: unused trash 42
+  - first:
+      1: 100236
+    second: unused trash 43
+  - first:
+      1: 100238
+    second: unused trash 43_end
+  - first:
+      1: 100240
+    second: unused trash 44
+  - first:
+      1: 100242
+    second: unused trash 44_end
+  - first:
+      1: 100244
+    second: unused trash 45
+  - first:
+      1: 100246
+    second: unused trash 45_end
+  - first:
+      1: 100248
+    second: unused trash 46
+  - first:
+      1: 100250
+    second: unused trash 47
+  - first:
+      1: 100252
+    second: unused trash 47_end
+  - first:
+      1: 100254
+    second: unused trash 48
+  - first:
+      1: 100256
+    second: unused trash 49
+  - first:
+      1: 100258
+    second: unused trash 49_end
+  - first:
+      1: 100260
+    second: unused trash 50
+  - first:
+      1: 100262
+    second: unused trash 50_end
+  - first:
+      1: 100264
+    second: unused trash 51
+  - first:
+      1: 100266
+    second: unused trash 52
+  - first:
+      1: 100268
+    second: unused trash 52_end
+  - first:
+      1: 100270
+    second: unused trash back 1
+  - first:
+      1: 100272
+    second: unused trash back 2
+  - first:
+      1: 100274
+    second: unused trash back 3
+  - first:
+      1: 100276
+    second: unused trash back 3_end
+  - first:
+      1: 100278
+    second: unused trash front 1
+  - first:
+      1: 100280
+    second: unused trash front 2
+  - first:
+      1: 100282
+    second: unused trash front 3
+  - first:
+      1: 100284
+    second: unused trash front 3_end
+  - first:
+      1: 100286
+    second: unused trash left 1
+  - first:
+      1: 100288
+    second: unused trash left 2
+  - first:
+      1: 100290
+    second: unused trash left 3
+  - first:
+      1: 100292
+    second: unused trash left 3_end
+  - first:
+      1: 100294
+    second: unused trash right 1
+  - first:
+      1: 100296
+    second: unused trash right 2
+  - first:
+      1: 100298
+    second: unused trash right 3
+  - first:
+      1: 100300
+    second: unused trash right 3_end
+  - first:
+      4: 400000
+    second: 5_-Material25.Material25_1_0_0
+  - first:
+      4: 400002
+    second: 5_-Material27.Material27_1_0_0
+  - first:
+      4: 400004
+    second: 5_-Material33(1).Material33(1)_1_0_0
+  - first:
+      4: 400006
+    second: 5_-Material33(2).Material33(2)_1_0_0
+  - first:
+      4: 400008
+    second: 5_-Material33(3).Material33(3)_1_0_0
+  - first:
+      4: 400010
+    second: 5_-Material33(4).Material33(4)_1_0_0
+  - first:
+      4: 400012
+    second: 5_-Material33(5).Material33(5)_1_0_0
+  - first:
+      4: 400014
+    second: 5_-Material33(6).Material33(6)_1_0_0
+  - first:
+      4: 400016
+    second: 5_-Material33(7).Material33(7)_1_0_0
+  - first:
+      4: 400018
+    second: 5_-Material33.Material33_1_0_0
+  - first:
+      4: 400020
+    second: 5_Material26_1_0_0
+  - first:
+      4: 400022
+    second: 5_Material28(1)_1_0_0
+  - first:
+      4: 400024
+    second: 5_Material28_1_0_0
+  - first:
+      4: 400026
+    second: 5_Material29_1_0_0
+  - first:
+      4: 400028
+    second: 5_Material30_1_0_0
+  - first:
+      4: 400030
+    second: 5_Material31_1_0_0
+  - first:
+      4: 400032
+    second: 5_Material32(1)_1_0_0
+  - first:
+      4: 400034
+    second: 5_Material32_1_0_0
+  - first:
+      4: 400036
+    second: arm left elbow
+  - first:
+      4: 400038
+    second: arm left shoulder 1
+  - first:
+      4: 400040
+    second: arm left wrist
+  - first:
+      4: 400042
+    second: arm left wrist_end
+  - first:
+      4: 400044
+    second: arm right elbow
+  - first:
+      4: 400046
+    second: arm right shoulder 1
+  - first:
+      4: 400048
+    second: arm right wrist
+  - first:
+      4: 400050
+    second: arm right wrist_end
+  - first:
+      4: 400052
+    second: Armature
+  - first:
+      4: 400054
+    second: head neck lower
+  - first:
+      4: 400056
+    second: head neck upper
+  - first:
+      4: 400058
+    second: head neck upper_end
+  - first:
+      4: 400060
+    second: leg left ankle
+  - first:
+      4: 400062
+    second: leg left ankle_end
+  - first:
+      4: 400064
+    second: leg left knee
+  - first:
+      4: 400066
+    second: leg left thigh
+  - first:
+      4: 400068
+    second: leg right ankle
+  - first:
+      4: 400070
+    second: leg right ankle_end
+  - first:
+      4: 400072
+    second: leg right knee
+  - first:
+      4: 400074
+    second: leg right thigh
+  - first:
+      4: 400076
+    second: //RootNode
+  - first:
+      4: 400078
+    second: root ground
+  - first:
+      4: 400080
+    second: root hips
+  - first:
+      4: 400082
+    second: spine middle
+  - first:
+      4: 400084
+    second: unused head hair back 1
+  - first:
+      4: 400086
+    second: unused head hair back 2
+  - first:
+      4: 400088
+    second: unused head hair back 3
+  - first:
+      4: 400090
+    second: unused head hair back 4
+  - first:
+      4: 400092
+    second: unused head hair back 4_end
+  - first:
+      4: 400094
+    second: unused head hair front
+  - first:
+      4: 400096
+    second: unused head hair front_end
+  - first:
+      4: 400098
+    second: unused head hair left 1
+  - first:
+      4: 400100
+    second: unused head hair left 2
+  - first:
+      4: 400102
+    second: unused head hair left 3
+  - first:
+      4: 400104
+    second: unused head hair left 3_end
+  - first:
+      4: 400106
+    second: unused head hair right 1
+  - first:
+      4: 400108
+    second: unused head hair right 2
+  - first:
+      4: 400110
+    second: unused head hair right 3
+  - first:
+      4: 400112
+    second: unused head hair right 3_end
+  - first:
+      4: 400114
+    second: unused trash 01
+  - first:
+      4: 400116
+    second: unused trash 02
+  - first:
+      4: 400118
+    second: unused trash 03
+  - first:
+      4: 400120
+    second: unused trash 03_end
+  - first:
+      4: 400122
+    second: unused trash 04
+  - first:
+      4: 400124
+    second: unused trash 04_end
+  - first:
+      4: 400126
+    second: unused trash 05
+  - first:
+      4: 400128
+    second: unused trash 05_end
+  - first:
+      4: 400130
+    second: unused trash 06
+  - first:
+      4: 400132
+    second: unused trash 06_end
+  - first:
+      4: 400134
+    second: unused trash 08
+  - first:
+      4: 400136
+    second: unused trash 11
+  - first:
+      4: 400138
+    second: unused trash 12
+  - first:
+      4: 400140
+    second: unused trash 12a
+  - first:
+      4: 400142
+    second: unused trash 14
+  - first:
+      4: 400144
+    second: unused trash 15
+  - first:
+      4: 400146
+    second: unused trash 16
+  - first:
+      4: 400148
+    second: unused trash 16_end
+  - first:
+      4: 400150
+    second: unused trash 17
+  - first:
+      4: 400152
+    second: unused trash 17_end
+  - first:
+      4: 400154
+    second: unused trash 18
+  - first:
+      4: 400156
+    second: unused trash 18_end
+  - first:
+      4: 400158
+    second: unused trash 19
+  - first:
+      4: 400160
+    second: unused trash 20
+  - first:
+      4: 400162
+    second: unused trash 21
+  - first:
+      4: 400164
+    second: unused trash 22
+  - first:
+      4: 400166
+    second: unused trash 23
+  - first:
+      4: 400168
+    second: unused trash 23_end
+  - first:
+      4: 400170
+    second: unused trash 24
+  - first:
+      4: 400172
+    second: unused trash 25
+  - first:
+      4: 400174
+    second: unused trash 25_end
+  - first:
+      4: 400176
+    second: unused trash 26
+  - first:
+      4: 400178
+    second: unused trash 26_end
+  - first:
+      4: 400180
+    second: unused trash 27
+  - first:
+      4: 400182
+    second: unused trash 28
+  - first:
+      4: 400184
+    second: unused trash 28_end
+  - first:
+      4: 400186
+    second: unused trash 29
+  - first:
+      4: 400188
+    second: unused trash 29_end
+  - first:
+      4: 400190
+    second: unused trash 30
+  - first:
+      4: 400192
+    second: unused trash 30_end
+  - first:
+      4: 400194
+    second: unused trash 31
+  - first:
+      4: 400196
+    second: unused trash 31_end
+  - first:
+      4: 400198
+    second: unused trash 32
+  - first:
+      4: 400200
+    second: unused trash 32_end
+  - first:
+      4: 400202
+    second: unused trash 33
+  - first:
+      4: 400204
+    second: unused trash 33_end
+  - first:
+      4: 400206
+    second: unused trash 34
+  - first:
+      4: 400208
+    second: unused trash 34_end
+  - first:
+      4: 400210
+    second: unused trash 35
+  - first:
+      4: 400212
+    second: unused trash 35_end
+  - first:
+      4: 400214
+    second: unused trash 36
+  - first:
+      4: 400216
+    second: unused trash 37
+  - first:
+      4: 400218
+    second: unused trash 37_end
+  - first:
+      4: 400220
+    second: unused trash 38
+  - first:
+      4: 400222
+    second: unused trash 38_end
+  - first:
+      4: 400224
+    second: unused trash 39
+  - first:
+      4: 400226
+    second: unused trash 39_end
+  - first:
+      4: 400228
+    second: unused trash 40
+  - first:
+      4: 400230
+    second: unused trash 41
+  - first:
+      4: 400232
+    second: unused trash 41_end
+  - first:
+      4: 400234
+    second: unused trash 42
+  - first:
+      4: 400236
+    second: unused trash 43
+  - first:
+      4: 400238
+    second: unused trash 43_end
+  - first:
+      4: 400240
+    second: unused trash 44
+  - first:
+      4: 400242
+    second: unused trash 44_end
+  - first:
+      4: 400244
+    second: unused trash 45
+  - first:
+      4: 400246
+    second: unused trash 45_end
+  - first:
+      4: 400248
+    second: unused trash 46
+  - first:
+      4: 400250
+    second: unused trash 47
+  - first:
+      4: 400252
+    second: unused trash 47_end
+  - first:
+      4: 400254
+    second: unused trash 48
+  - first:
+      4: 400256
+    second: unused trash 49
+  - first:
+      4: 400258
+    second: unused trash 49_end
+  - first:
+      4: 400260
+    second: unused trash 50
+  - first:
+      4: 400262
+    second: unused trash 50_end
+  - first:
+      4: 400264
+    second: unused trash 51
+  - first:
+      4: 400266
+    second: unused trash 52
+  - first:
+      4: 400268
+    second: unused trash 52_end
+  - first:
+      4: 400270
+    second: unused trash back 1
+  - first:
+      4: 400272
+    second: unused trash back 2
+  - first:
+      4: 400274
+    second: unused trash back 3
+  - first:
+      4: 400276
+    second: unused trash back 3_end
+  - first:
+      4: 400278
+    second: unused trash front 1
+  - first:
+      4: 400280
+    second: unused trash front 2
+  - first:
+      4: 400282
+    second: unused trash front 3
+  - first:
+      4: 400284
+    second: unused trash front 3_end
+  - first:
+      4: 400286
+    second: unused trash left 1
+  - first:
+      4: 400288
+    second: unused trash left 2
+  - first:
+      4: 400290
+    second: unused trash left 3
+  - first:
+      4: 400292
+    second: unused trash left 3_end
+  - first:
+      4: 400294
+    second: unused trash right 1
+  - first:
+      4: 400296
+    second: unused trash right 2
+  - first:
+      4: 400298
+    second: unused trash right 3
+  - first:
+      4: 400300
+    second: unused trash right 3_end
+  - first:
+      43: 4300000
+    second: 5_Material32_1_0_0
+  - first:
+      43: 4300002
+    second: 5_Material32(1)_1_0_0
+  - first:
+      43: 4300004
+    second: 5_Material31_1_0_0
+  - first:
+      43: 4300006
+    second: 5_Material30_1_0_0
+  - first:
+      43: 4300008
+    second: 5_Material29_1_0_0
+  - first:
+      43: 4300010
+    second: 5_Material28_1_0_0
+  - first:
+      43: 4300012
+    second: 5_Material28(1)_1_0_0
+  - first:
+      43: 4300014
+    second: 5_Material26_1_0_0
+  - first:
+      43: 4300016
+    second: 5_-Material33.Material33_1_0_0
+  - first:
+      43: 4300018
+    second: 5_-Material33(7).Material33(7)_1_0_0
+  - first:
+      43: 4300020
+    second: 5_-Material33(6).Material33(6)_1_0_0
+  - first:
+      43: 4300022
+    second: 5_-Material33(5).Material33(5)_1_0_0
+  - first:
+      43: 4300024
+    second: 5_-Material33(4).Material33(4)_1_0_0
+  - first:
+      43: 4300026
+    second: 5_-Material33(3).Material33(3)_1_0_0
+  - first:
+      43: 4300028
+    second: 5_-Material33(2).Material33(2)_1_0_0
+  - first:
+      43: 4300030
+    second: 5_-Material33(1).Material33(1)_1_0_0
+  - first:
+      43: 4300032
+    second: 5_-Material27.Material27_1_0_0
+  - first:
+      43: 4300034
+    second: 5_-Material25.Material25_1_0_0
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: 5_-Material25.Material25_1_0_0
+  - first:
+      137: 13700002
+    second: 5_-Material27.Material27_1_0_0
+  - first:
+      137: 13700004
+    second: 5_-Material33(1).Material33(1)_1_0_0
+  - first:
+      137: 13700006
+    second: 5_-Material33(2).Material33(2)_1_0_0
+  - first:
+      137: 13700008
+    second: 5_-Material33(3).Material33(3)_1_0_0
+  - first:
+      137: 13700010
+    second: 5_-Material33(4).Material33(4)_1_0_0
+  - first:
+      137: 13700012
+    second: 5_-Material33(5).Material33(5)_1_0_0
+  - first:
+      137: 13700014
+    second: 5_-Material33(6).Material33(6)_1_0_0
+  - first:
+      137: 13700016
+    second: 5_-Material33(7).Material33(7)_1_0_0
+  - first:
+      137: 13700018
+    second: 5_-Material33.Material33_1_0_0
+  - first:
+      137: 13700020
+    second: 5_Material26_1_0_0
+  - first:
+      137: 13700022
+    second: 5_Material28(1)_1_0_0
+  - first:
+      137: 13700024
+    second: 5_Material28_1_0_0
+  - first:
+      137: 13700026
+    second: 5_Material29_1_0_0
+  - first:
+      137: 13700028
+    second: 5_Material30_1_0_0
+  - first:
+      137: 13700030
+    second: 5_Material31_1_0_0
+  - first:
+      137: 13700032
+    second: 5_Material32(1)_1_0_0
+  - first:
+      137: 13700034
+    second: 5_Material32_1_0_0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material25.Material25_1_0_0
+    second: {fileID: 2100000, guid: c9da3255f4b1d384e8c254d4eb4e339a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material27.Material27_1_0_0
+    second: {fileID: 2100000, guid: c9da3255f4b1d384e8c254d4eb4e339a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(1).Material33(1)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(2).Material33(2)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(3).Material33(3)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(4).Material33(4)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(5).Material33(5)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(6).Material33(6)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33(7).Material33(7)_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_-Material33.Material33_1_0_0
+    second: {fileID: 2100000, guid: d363bb5cff3fb2b41ae0c776bae1a25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material26_1_0_0
+    second: {fileID: 2100000, guid: e85b51f774c340d4eab32676f585b3b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material28(1)_1_0_0
+    second: {fileID: 2100000, guid: d899dd20ab96cb042bca6914e1efe9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material28_1_0_0
+    second: {fileID: 2100000, guid: d899dd20ab96cb042bca6914e1efe9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material29_1_0_0
+    second: {fileID: 2100000, guid: 3b13be29c404bd842bc66e309199752e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material30_1_0_0
+    second: {fileID: 2100000, guid: 564bdf6735a0024439a0a66e772f2832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material31_1_0_0
+    second: {fileID: 2100000, guid: 9c83c19c62a7e1944a6b036e71f050b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material32(1)_1_0_0
+    second: {fileID: 2100000, guid: bb6050b9857700747ba68a5efe4409a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5_Material32_1_0_0
+    second: {fileID: 2100000, guid: bb6050b9857700747ba68a5efe4409a0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: MARIO(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: root ground
+      parentName: Armature
+      position: {x: 0.000055911496, y: -0.000102982, z: 0.0000186702}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 44
+      parentName: root ground
+      position: {x: -0, y: -0.0008669368, z: 0}
+      rotation: {x: 1, y: 1.9106855e-15, z: 0.00000004371139, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 44_end
+      parentName: unused trash 44
+      position: {x: -0, y: 0.0018669367, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 45
+      parentName: root ground
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1, y: 1.9106855e-15, z: 0.00000004371139, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 45_end
+      parentName: unused trash 45
+      position: {x: -0, y: 0.001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 46
+      parentName: root ground
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.999669, y: 0.000041763753, z: -0.000040634503, w: 0.025727252}
+      scale: {x: 0.99999994, y: 1, z: 1.0000368}
+    - name: unused trash 33
+      parentName: unused trash 46
+      position: {x: 0.0014862219, y: 0.001403035, z: -0.0001273178}
+      rotation: {x: 0.93281287, y: 0.24069382, z: 0.25333092, w: -0.08803447}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: unused trash 33_end
+      parentName: unused trash 33
+      position: {x: -0, y: 0.0030106881, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 03
+      parentName: unused trash 46
+      position: {x: -0.0014883184, y: 0.0012638826, z: -0.00014689824}
+      rotation: {x: 0.9381846, y: -0.23105517, z: -0.24333856, w: -0.08490885}
+      scale: {x: 0.9999996, y: 1, z: 1}
+    - name: unused trash 03_end
+      parentName: unused trash 03
+      position: {x: -0, y: 0.0031341712, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 12a
+      parentName: unused trash 46
+      position: {x: 1.915197e-12, y: 8.945247e-10, z: 2.2299957e-11}
+      rotation: {x: 0.025728598, y: 0.00004060372, z: 0.00004060361, w: 0.99966896}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: root hips
+      parentName: unused trash 12a
+      position: {x: 2.8724438e-13, y: 0.007843849, z: 5.499278e-12}
+      rotation: {x: 0.0000000037251935, y: 0.0000000014987913, z: 1.3641794e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 12
+      parentName: root hips
+      position: {x: -6.4705186e-18, y: -0.0018466506, z: -0.00016145926}
+      rotation: {x: -0.21479489, y: -0.000011518054, z: -0.000011517953, w: 0.9766592}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 08
+      parentName: unused trash 12
+      position: {x: -3.5137759e-12, y: 6.732729e-10, z: 9.323436e-11}
+      rotation: {x: 0.17810936, y: 0.007466458, z: 0.01167105, w: 0.9839132}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: leg right thigh
+      parentName: unused trash 08
+      position: {x: 0.0014613313, y: -0.000029502038, z: 0.000024909732}
+      rotation: {x: 0.9991765, y: -0.009658774, z: 0.009787585, w: -0.038174015}
+      scale: {x: 0.9999977, y: 0.99999994, z: 0.99996233}
+    - name: leg right knee
+      parentName: leg right thigh
+      position: {x: 7.992085e-11, y: 0.0023796137, z: -5.0408744e-12}
+      rotation: {x: 0.008536184, y: 0.000011973798, z: -0.0000043069563, w: 0.9999636}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: leg right ankle
+      parentName: leg right knee
+      position: {x: 5.3084467e-11, y: 0.0023630208, z: 2.1032065e-12}
+      rotation: {x: -0.00024167838, y: 0.99150884, z: -0.018495306, w: 0.12871715}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: leg right ankle_end
+      parentName: leg right ankle
+      position: {x: -0, y: 0.0023630208, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine middle
+      parentName: unused trash 08
+      position: {x: 0.000026247555, y: 0.0012986247, z: 0.0000057468264}
+      rotation: {x: 0.021309739, y: -0.0091006225, z: -0.009374812, w: 0.99968755}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: head neck lower
+      parentName: spine middle
+      position: {x: 0.0000041841763, y: 0.0037738932, z: 0.000006741476}
+      rotation: {x: -0.029851703, y: -0.0005156984, z: -0.0005654159, w: 0.9995541}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: head neck upper
+      parentName: head neck lower
+      position: {x: 7.133849e-12, y: 0.0014395746, z: 3.3311878e-11}
+      rotation: {x: 0.000000007450809, y: -0.000000018986924, z: 1.0399503e-10, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: head neck upper_end
+      parentName: head neck upper
+      position: {x: -0, y: 0.0014395732, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm left shoulder 1
+      parentName: spine middle
+      position: {x: -0.00073724176, y: 0.0030183503, z: -0.00000416424}
+      rotation: {x: -0.50480664, y: 0.47860005, z: 0.49369016, w: 0.52190256}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: arm left elbow
+      parentName: arm left shoulder 1
+      position: {x: -1.0368239e-11, y: 0.0034418278, z: -4.1611428e-10}
+      rotation: {x: -0.0000059589893, y: 0.0000066261773, z: 0.030528642, w: 0.9995339}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: arm left wrist
+      parentName: arm left elbow
+      position: {x: 4.3582984e-11, y: 0.0023073894, z: -3.2940306e-10}
+      rotation: {x: -1.5916158e-12, y: -2.4135005e-10, z: -6.0259603e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: arm left wrist_end
+      parentName: arm left wrist
+      position: {x: -0, y: 0.002307389, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right shoulder 1
+      parentName: spine middle
+      position: {x: 0.00073305756, y: 0.0030167173, z: -0.000002577179}
+      rotation: {x: -0.5048016, y: -0.4786055, z: -0.49481896, w: 0.52083236}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: arm right elbow
+      parentName: arm right shoulder 1
+      position: {x: 1.0550138e-12, y: 0.0034417787, z: -4.567482e-11}
+      rotation: {x: -0.000005963625, y: -0.0000066240777, z: -0.030500747, w: 0.9995347}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: arm right wrist
+      parentName: arm right elbow
+      position: {x: 4.3655743e-12, y: 0.0023075782, z: 5.6826363e-11}
+      rotation: {x: -8.4554586e-13, y: 2.4306246e-10, z: -0.000000002191302, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm right wrist_end
+      parentName: arm right wrist
+      position: {x: -0, y: 0.002307578, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left thigh
+      parentName: unused trash 08
+      position: {x: -0.0014875786, y: 0.000030349102, z: -0.000030656633}
+      rotation: {x: 0.9990902, y: -0.009818281, z: 0.009804724, w: -0.04032699}
+      scale: {x: 1.0000011, y: 1.0000001, z: 1.0000216}
+    - name: leg left knee
+      parentName: leg left thigh
+      position: {x: -1.7800388e-11, y: 0.0023796107, z: -1.9122126e-12}
+      rotation: {x: 0.0041929064, y: 0.0000075234907, z: -0.000000069791916, w: 0.99999124}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left ankle
+      parentName: leg left knee
+      position: {x: 1.0924983e-13, y: 0.00236304, z: 8.453753e-12}
+      rotation: {x: -0.0001249329, y: -0.99186337, z: 0.014155925, w: 0.12651709}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg left ankle_end
+      parentName: leg left ankle
+      position: {x: -0, y: 0.0023630406, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 23
+      parentName: unused trash 12
+      position: {x: 0.0042070616, y: 0.00532414, z: -0.001241649}
+      rotation: {x: -0.29683635, y: -0.27155036, z: -0.4246493, w: 0.811062}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: unused trash 23_end
+      parentName: unused trash 23
+      position: {x: -0, y: 0.004949247, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 19
+      parentName: unused trash 12
+      position: {x: -0.0064850375, y: 0.004063838, z: 0.0014845602}
+      rotation: {x: -0.0000009457969, y: 0.5387179, z: 0.8424862, w: -0.000014766513}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: unused trash 34
+      parentName: unused trash 19
+      position: {x: -5.682939e-10, y: -1.4419356e-10, z: -6.374123e-11}
+      rotation: {x: 0.00000084936636, y: 0.000000044166363, z: 0.0000018018429, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 34_end
+      parentName: unused trash 34
+      position: {x: -0, y: 0.000049999988, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 18
+      parentName: unused trash 12
+      position: {x: -0.00417773, y: 0.005323909, z: -0.0012415013}
+      rotation: {x: -0.29649752, y: 0.2708199, z: 0.42352495, w: 0.8120175}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: unused trash 18_end
+      parentName: unused trash 18
+      position: {x: -0, y: 0.004924195, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 11
+      parentName: unused trash 12
+      position: {x: -0.00001815336, y: 0.0017978515, z: -0.00069570995}
+      rotation: {x: 0.49003705, y: -0.0046566925, z: -0.007297287, w: 0.8716586}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: unused trash 22
+      parentName: unused trash 11
+      position: {x: -0.000029328912, y: 0.0037522758, z: -0.0010988268}
+      rotation: {x: -0.33496243, y: 0.0058428594, z: 0.0064059934, w: 0.94219166}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: unused trash 14
+      parentName: unused trash 22
+      position: {x: 2.3669244e-12, y: 0.0014395654, z: 1.3679298e-10}
+      rotation: {x: 0.00000015645399, y: 0.67391133, z: 0.73881227, w: -0.00000040625113}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 36
+      parentName: unused trash 14
+      position: {x: 1.0151563e-12, y: 2.117173e-12, z: -0.0000000011598343}
+      rotation: {x: 0.000000010794342, y: 0.73421276, z: -0.67891943, w: 0.000010484106}
+      scale: {x: 1, y: 0.99999964, z: 0.99999994}
+    - name: unused trash 48
+      parentName: unused trash 36
+      position: {x: 2.2737366e-14, y: 0.04527723, z: -9.898393e-11}
+      rotation: {x: 0.99997187, y: 0.00000373668, z: -0.000017846633, w: -0.0075000576}
+      scale: {x: 1, y: 0.99999994, z: 0.9994888}
+    - name: unused trash 27
+      parentName: unused trash 48
+      position: {x: 4.9965365e-13, y: 0.045989692, z: 1.6228612e-10}
+      rotation: {x: 0.006586054, y: -0.000002894647, z: -0.000003207361, w: 0.9999783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 02
+      parentName: unused trash 27
+      position: {x: 1.7197976e-12, y: 0.006522974, z: -6.566381e-11}
+      rotation: {x: 0.9855073, y: -0.000030194147, z: -0.000059224898, w: 0.1696332}
+      scale: {x: 1, y: 1, z: 1.0000012}
+    - name: unused head hair back 1
+      parentName: unused trash 02
+      position: {x: -0.00000022737078, y: 0.00023102223, z: 0.0027446032}
+      rotation: {x: 0.6123431, y: -0.000014017131, z: -0.000039934785, w: 0.79059213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head hair back 2
+      parentName: unused head hair back 1
+      position: {x: 2.8740031e-12, y: 0.0023141294, z: -8.789297e-10}
+      rotation: {x: -0.37949598, y: 0.000019740726, z: -0.00000830249, w: 0.9251934}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: unused head hair back 3
+      parentName: unused head hair back 2
+      position: {x: 3.255991e-12, y: 0.0027444616, z: 2.9809114e-10}
+      rotation: {x: -0.12619993, y: 0.0000008088732, z: 0.000003905741, w: 0.9920049}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head hair back 4
+      parentName: unused head hair back 3
+      position: {x: 6.5665516e-12, y: 0.0030262035, z: 2.3810656e-10}
+      rotation: {x: 0.000000016757843, y: -3.8323836e-10, z: 1.03852926e-10, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: unused head hair back 4_end
+      parentName: unused head hair back 4
+      position: {x: -0, y: 0.0030262014, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head hair left 1
+      parentName: unused trash 02
+      position: {x: -0.0028061138, y: 0.0050858087, z: 0.00017111097}
+      rotation: {x: 0.20144741, y: 0.14832555, z: -0.099304125, w: 0.9630977}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: unused head hair left 2
+      parentName: unused head hair left 1
+      position: {x: -2.6077032e-10, y: 0.0018441258, z: 1.11758706e-10}
+      rotation: {x: -0.075687304, y: -0.040400732, z: 0.021587083, w: 0.99607897}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: unused head hair left 3
+      parentName: unused head hair left 2
+      position: {x: -2.6077032e-10, y: 0.0020731082, z: -1.11758706e-10}
+      rotation: {x: -0.000000015832484, y: 0.000017057173, z: 0.0000000121071935,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: unused head hair left 3_end
+      parentName: unused head hair left 3
+      position: {x: -0, y: 0.0020731017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head hair right 1
+      parentName: unused trash 02
+      position: {x: 0.002806937, y: 0.0050853477, z: 0.0001705907}
+      rotation: {x: 0.20143096, y: -0.14824626, z: 0.09921872, w: 0.9631221}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: unused head hair right 2
+      parentName: unused head hair right 1
+      position: {x: 1.862645e-10, y: 0.0018442395, z: 1.862645e-10}
+      rotation: {x: -0.059251036, y: -0.0144392485, z: 0.030180303, w: 0.99768233}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: unused head hair right 3
+      parentName: unused head hair right 2
+      position: {x: 2.2351741e-10, y: 0.0020730286, z: 2.6077032e-10}
+      rotation: {x: 0.000000010244548, y: 0.000005719252, z: -0.000000031664968, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head hair right 3_end
+      parentName: unused head hair right 3
+      position: {x: -0, y: 0.0020730214, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused head hair front
+      parentName: unused trash 02
+      position: {x: -0.000000596447, y: 0.004015453, z: -0.0030863057}
+      rotation: {x: -0.6587799, y: 0.00035979607, z: -0.00018774049, w: 0.7523356}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: unused head hair front_end
+      parentName: unused head hair front
+      position: {x: -0, y: 0.003112133, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 38
+      parentName: unused trash 22
+      position: {x: 2.2149747e-12, y: 0.0000000017172134, z: 1.9267277e-10}
+      rotation: {x: 1, y: -3.1725086e-10, z: -0.000000552335, w: 0.0000000754979}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: unused trash 38_end
+      parentName: unused trash 38
+      position: {x: -0, y: 0.0007197813, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 39
+      parentName: unused trash 11
+      position: {x: 0.00002932889, y: 0.0006848302, z: 0.0010988265}
+      rotation: {x: 0.95203257, y: 0.006223145, z: -0.00603808, w: 0.30587387}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000005}
+    - name: unused trash 39_end
+      parentName: unused trash 39
+      position: {x: -0, y: 0.0018869514, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 24
+      parentName: unused trash 12
+      position: {x: 0.0064738733, y: 0.0040641944, z: 0.0014843312}
+      rotation: {x: -0.0000009458466, y: 0.53871787, z: 0.8424862, w: -0.0000147664805}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: unused trash 35
+      parentName: unused trash 24
+      position: {x: -5.6941074e-10, y: 6.29052e-11, z: 0.0000000010047375}
+      rotation: {x: 0.0000008940698, y: 0.00000004411006, z: 0.0000018018868, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 35_end
+      parentName: unused trash 35
+      position: {x: -0, y: 0.000049999988, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 15
+      parentName: unused trash 12
+      position: {x: -0.000000014169247, y: 0.00065038993, z: 0.00020996782}
+      rotation: {x: 0.976222, y: 0.000011494263, z: -0.000011539445, w: -0.21677318}
+      scale: {x: 1, y: 1.0000001, z: 1.0000011}
+    - name: unused trash 37
+      parentName: unused trash 15
+      position: {x: -7.221037e-13, y: -0.0006171571, z: 0.000011732548}
+      rotation: {x: 0.99999446, y: -7.879823e-12, z: 0.0000000019581983, w: 0.0033372142}
+      scale: {x: 1, y: 1, z: 1.0016791}
+    - name: unused trash 37_end
+      parentName: unused trash 37
+      position: {x: -0, y: 0.001756391, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 51
+      parentName: unused trash 15
+      position: {x: -6.2079416e-13, y: 0.002895547, z: -0.000011732541}
+      rotation: {x: -0.000000054792746, y: -0.7056734, z: 0.7085373, w: 0.000000051983317}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: unused trash 01
+      parentName: unused trash 51
+      position: {x: 2.3079082e-12, y: 1.7372574e-11, z: -2.3977761e-10}
+      rotation: {x: -0.000000055457193, y: 0.76877546, z: 0.6395188, w: 0.00003059965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash back 1
+      parentName: unused trash 01
+      position: {x: -0.00000007004273, y: 0.0009355264, z: -0.0014949824}
+      rotation: {x: 0.99275696, y: 0.000016572898, z: -0.00002564784, w: -0.12014012}
+      scale: {x: 1, y: 0.99999994, z: 0.9999973}
+    - name: unused trash back 2
+      parentName: unused trash back 1
+      position: {x: -5.2588045e-13, y: 0.0016701405, z: 1.551764e-10}
+      rotation: {x: -0.13532802, y: -0.000000004188054, z: -5.7390004e-10, w: 0.99080086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash back 3
+      parentName: unused trash back 2
+      position: {x: -7.6601917e-16, y: 0.001974331, z: 8.0729305e-11}
+      rotation: {x: -0.000000052154064, y: -1.443959e-13, z: 2.2203672e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash back 3_end
+      parentName: unused trash back 3
+      position: {x: -0, y: 0.0019743333, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash right 1
+      parentName: unused trash 01
+      position: {x: 0.0022894947, y: 0.0013464558, z: -0.000034152465}
+      rotation: {x: 0.9702053, y: 0.18035543, z: 0.15000129, w: 0.06060647}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: unused trash right 2
+      parentName: unused trash right 1
+      position: {x: 2.537854e-10, y: 0.0016491282, z: 5.122274e-11}
+      rotation: {x: -0.020200511, y: -0.0785436, z: 0.07615213, w: 0.9937926}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: unused trash right 3
+      parentName: unused trash right 2
+      position: {x: -3.0384398e-10, y: 0.0020885672, z: -5.122274e-11}
+      rotation: {x: -0.0000000054323057, y: -0.0000026107302, z: 0.0000000100346496,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: unused trash right 3_end
+      parentName: unused trash right 3
+      position: {x: -0, y: 0.0020885675, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash left 1
+      parentName: unused trash 01
+      position: {x: -0.002289476, y: 0.0013462674, z: -0.00003393526}
+      rotation: {x: 0.9702105, y: -0.18029793, z: -0.15002847, w: 0.060628425}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000001}
+    - name: unused trash left 2
+      parentName: unused trash left 1
+      position: {x: 1.839362e-10, y: 0.0016491043, z: 6.0535965e-11}
+      rotation: {x: -0.020188479, y: 0.07849447, z: -0.076104045, w: 0.9938004}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: unused trash left 3
+      parentName: unused trash left 2
+      position: {x: 3.236346e-10, y: 0.0020886099, z: -4.1909514e-11}
+      rotation: {x: -0.0000000065316845, y: 0.000002546818, z: -0.0000000020673503,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: unused trash left 3_end
+      parentName: unused trash left 3
+      position: {x: -0, y: 0.0020886105, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash front 1
+      parentName: unused trash 01
+      position: {x: 0.000000051412105, y: 0.001501645, z: 0.0015630699}
+      rotation: {x: 0.9877092, y: 0.000022964112, z: -0.000020138115, w: 0.15630262}
+      scale: {x: 1, y: 1, z: 0.9999991}
+    - name: unused trash front 2
+      parentName: unused trash front 1
+      position: {x: -2.2605266e-12, y: 0.0017229974, z: 1.5473102e-10}
+      rotation: {x: 0.049404334, y: 0.000000005528131, z: -2.7528965e-10, w: 0.9987789}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash front 3
+      parentName: unused trash front 2
+      position: {x: -8.2518193e-16, y: 0.0019524585, z: -4.484902e-11}
+      rotation: {x: -0.0000000037252903, y: 2.053111e-13, z: 6.938963e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash front 3_end
+      parentName: unused trash front 3
+      position: {x: -0, y: 0.0019524589, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 20
+      parentName: root hips
+      position: {x: -0.0014882016, y: -0.006589081, z: -0.00021184202}
+      rotation: {x: -0.00000005338508, y: 0.7071068, z: 0.7071067, w: -0.000000053385072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 40
+      parentName: unused trash 20
+      position: {x: 3.7683922e-11, y: -5.092886e-12, z: 1.8644501e-10}
+      rotation: {x: 4.1192502e-10, y: 0.9994105, z: -0.034332324, w: 0.00000007552829}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: unused trash 41
+      parentName: unused trash 40
+      position: {x: 6.872096e-11, y: 0.003152183, z: -1.2920277e-10}
+      rotation: {x: 6.319638e-31, y: 0.000000031787778, z: -7.693793e-16, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: unused trash 41_end
+      parentName: unused trash 41
+      position: {x: -0, y: 0.0031522983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 17
+      parentName: root hips
+      position: {x: 0.0014618386, y: -0.004226294, z: 0.0019935246}
+      rotation: {x: 0.9927899, y: 0.06481352, z: 0.06479268, w: 0.07726161}
+      scale: {x: 1.0000019, y: 1.0000001, z: 1.0000036}
+    - name: unused trash 17_end
+      parentName: unused trash 17
+      position: {x: -0, y: 0.012320701, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 21
+      parentName: root hips
+      position: {x: 0.0014618386, y: -0.0065889107, z: -0.00021184236}
+      rotation: {x: -0.00000005338508, y: 0.7071068, z: 0.7071067, w: -0.000000053385072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 42
+      parentName: unused trash 21
+      position: {x: 3.7669017e-11, y: -1.3918875e-11, z: 2.1787108e-10}
+      rotation: {x: 4.1192513e-10, y: 0.9994105, z: -0.03433233, w: 0.00000007552829}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: unused trash 43
+      parentName: unused trash 42
+      position: {x: 2.1772174e-10, y: 0.003152183, z: -4.2951358e-11}
+      rotation: {x: 0.0000000074505815, y: 0.000000031787827, z: -6.335925e-16, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: unused trash 43_end
+      parentName: unused trash 43
+      position: {x: -0, y: 0.0031522983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 16
+      parentName: root hips
+      position: {x: -0.0014882016, y: -0.004226704, z: 0.001993525}
+      rotation: {x: 0.9926527, y: -0.065944746, z: -0.065940924, w: 0.07709566}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: unused trash 16_end
+      parentName: unused trash 16
+      position: {x: -0, y: 0.012324258, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 30
+      parentName: unused trash 46
+      position: {x: -0.00648581, y: 0.010321546, z: 0.000012399276}
+      rotation: {x: -0.14440271, y: 0.34333798, z: 0.36148995, w: 0.85474676}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: unused trash 30_end
+      parentName: unused trash 30
+      position: {x: -0, y: 0.009044216, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 04
+      parentName: unused trash 46
+      position: {x: 0.001461722, y: 0.0012642981, z: -0.00014712315}
+      rotation: {x: 0.9400198, y: 0.22786665, z: 0.2398253, w: -0.08320714}
+      scale: {x: 0.9999992, y: 0.99999976, z: 1}
+    - name: unused trash 04_end
+      parentName: unused trash 04
+      position: {x: -0, y: 0.0031212731, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 31
+      parentName: unused trash 46
+      position: {x: 0.0064731007, y: 0.010322627, z: 0.000011372867}
+      rotation: {x: -0.14409125, y: -0.3429767, z: -0.36108553, w: 0.8551152}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: unused trash 31_end
+      parentName: unused trash 31
+      position: {x: -0, y: 0.009035857, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 32
+      parentName: unused trash 46
+      position: {x: -0.0014461085, y: 0.0014027908, z: -0.00012708554}
+      rotation: {x: 0.93570757, y: -0.23571488, z: -0.24824306, w: -0.085236505}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: unused trash 32_end
+      parentName: unused trash 32
+      position: {x: -0, y: 0.002991293, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 28
+      parentName: unused trash 46
+      position: {x: -0.0000004033335, y: 0.005092888, z: 0.00026232627}
+      rotation: {x: 0.11942284, y: 0.00020757467, z: 0.00020858452, w: 0.99284345}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: unused trash 28_end
+      parentName: unused trash 28
+      position: {x: -0, y: 0.0011062272, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 29
+      parentName: unused trash 46
+      position: {x: -0.0000004033335, y: 0.005092888, z: 0.00026232627}
+      rotation: {x: 0.11942284, y: 0.00020757467, z: 0.00020858452, w: 0.99284345}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: unused trash 29_end
+      parentName: unused trash 29
+      position: {x: -0, y: 0.0011062272, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 05
+      parentName: Armature
+      position: {x: -0.00323094, y: 0.000386369, z: 0.0103275}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 05_end
+      parentName: unused trash 05
+      position: {x: -0, y: 0.0010000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 25
+      parentName: Armature
+      position: {x: -0.0053964695, y: 0.000424156, z: 0.0103277005}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 25_end
+      parentName: unused trash 25
+      position: {x: -0, y: 0.0010000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 26
+      parentName: Armature
+      position: {x: 0.00549745, y: 0.000424065, z: 0.0103277005}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 26_end
+      parentName: unused trash 26
+      position: {x: -0, y: 0.0010000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 06
+      parentName: Armature
+      position: {x: 0.00333182, y: 0.00038639197, z: 0.0103276}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 06_end
+      parentName: unused trash 06
+      position: {x: -0, y: 0.0010000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 47
+      parentName: Armature
+      position: {x: 0.0000552713, y: -0.00314108, z: -0.0326216}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 47_end
+      parentName: unused trash 47
+      position: {x: -0, y: 0.000999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 52
+      parentName: Armature
+      position: {x: 0.0000378208, y: -0.000284284, z: 0.00839314}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 52_end
+      parentName: unused trash 52
+      position: {x: -0, y: 0.0010000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 49
+      parentName: Armature
+      position: {x: -0.00143229, y: -0.000491274, z: 0.00121918}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 49_end
+      parentName: unused trash 49
+      position: {x: -0, y: 0.001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 50
+      parentName: Armature
+      position: {x: 0.00151775, y: -0.000491274, z: 0.00121935}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: unused trash 50_end
+      parentName: unused trash 50
+      position: {x: -0, y: 0.001, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 5_Material32_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material32(1)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material31_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material30_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material29_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material28_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material28(1)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_Material26_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33.Material33_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(7).Material33(7)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(6).Material33(6)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(5).Material33(5)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(4).Material33(4)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(3).Material33(3)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(2).Material33(2)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material33(1).Material33(1)_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material27.Material27_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: 5_-Material25.Material25_1_0_0
+      parentName: MARIO(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
